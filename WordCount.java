@@ -2,16 +2,6 @@
  * EECS 233
  * Programming Project #3*/
 
-/*Notes on Submission:
- * Also included in the .zip file submission are the following files:
- * 1. SoTheyBakedACake.txt - The original text file from Project Gutenberg: "So They Baked a Cake" by Winston Marks
- * 2. SoTheyBakedACakeFrequencies.txt - the output file with word counts
- * 3. SoTheyBakedACake_ConsoleOutput.txt - the file where I cut and pasted the console output of running SoTheyBakedACake.txt
- * 4. test.txt - the small text file that I used to debug my program
- * 5. testFrequencies.txt - the output file of running text.txt, with word counts
- * 6. test_ConsoleOutput.txt - The file where I cut and pasted the console output of running test.txt
- * */
-
 import java.io.*;
 import java.util.*;
 
